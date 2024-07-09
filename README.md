@@ -96,6 +96,7 @@ Esses são exemplos básicos de como você pode interagir com o bot. Você pode 
 * [CURSO DE DISCORDPY](https://github.com/VILHALVA/CURSO-DE-DISCORDPY)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
